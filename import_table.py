@@ -1,7 +1,6 @@
 def main():
     f=open('values_import.txt', 'r')
     content=f.read()
-    print(content)
     list_of_lists=[]
 
     #making list by removing "/n"
