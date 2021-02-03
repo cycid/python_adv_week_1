@@ -1,3 +1,11 @@
+"""
+ Дана матрица целых чисел 10x10. Вводится число. Выяснить, какие строки и
+ столбцы матрицы содержат данное число. (либо рандом либо чтение из файла (input.txt))
+"""
+
+
+
+
 from import_table import main as values
 from import_table import income_values as value_input
 def main():
