@@ -1,7 +1,8 @@
 """
-1. Программа принимает от пользователя диапазоны для коэффициентов a, b, c квадратного уравнения: ax2 + bx + c = 0.
-Перебирает все варианты целочисленных
- коэффициентов в указанных диапазонах, определяет квадратные уравнения, которые имею решение
+1. The program accepts from the user ranges for the coefficients a, b, c of the quadratic equation: ax2 + bx + c = 0.
+It goes through all the variants of integer
+
+coefficients in the specified ranges, determines quadratic equations that have a solution
 """
 
 
