@@ -1,6 +1,6 @@
 """
- Дана матрица целых чисел 10x10. Вводится число. Выяснить, какие строки и
- столбцы матрицы содержат данное число. (либо рандом либо чтение из файла (input.txt))
+ A 10x10 matrix of integers is given. A number is entered. Find out which rows and
+columns of the matrix contain the given number. (either random or reading from a file (input.txt))
 """
 
 
